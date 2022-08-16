@@ -1,7 +1,7 @@
 ### Oi!! Eu sou o Douglas Alves 👋
 
 
-- 🔭 Cursando Sistemas de Informações
+- 🔭 Cursando Sistemas de Informação
 - 🌱 Estudando Java/Spring Boot/SQL/HTML/CSS
 - 💬 Email: douglas.alves9905@gmail.com
 
