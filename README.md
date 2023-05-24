@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando Sistemas de Informação
-- 🌱 Estudando Java/Spring Boot/SQL/HTML/CSS
+- 🌱 Estudando Java/Spring Boot/SQL
 - 💬 Email: douglas.alves9905@gmail.com
 
 <div align="center">
