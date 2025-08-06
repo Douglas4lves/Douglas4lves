@@ -1,8 +1,8 @@
 ### Oi!! Eu sou o Douglas Alves 👋
 
 
-- 🔭 Cursando Sistemas de Informação
-- 🌱 Estudando Java/Spring Boot/SQL
+- 🔭 Sistemas de Informação
+- 🌱 PHP/JavaScript/Levantamento de requisitos/Testes de software
 - 💬 Email: douglas.alves9905@gmail.com
 
 <div align="center">
